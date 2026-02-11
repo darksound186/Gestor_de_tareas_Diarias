@@ -1,48 +1,53 @@
-# Foundation Project
+Proyecto Fundacional
+Lista de Tareas
+¡Un sitio web simple de Lista de Tareas!
+Lista de Tareas
+Esta página web está alojada aquí
+Características:
 
-# To-Do-List
+Fácil de usar
 
-## A Simple To - Do Website!
+Soporte para almacenamiento local (Local Storage)
 
-# To Do List
+Muestra la fecha y hora actuales
 
+Responsivo, funciona en todos los dispositivos
 
-#### This web page is hosted [here!](https://lordwill1.github.io/todo-list/)
+Temas: los usuarios pueden elegir entre diferentes temas
 
+Características que se agregarán:
 
-### *Features*:
+Subtareas: agregar subtareas a las tareas listadas como una opción
 
-* User-friendly
-* Local Storage Supported
-* Displays current Date and Time
-* Responsive, on all devices
-* Themes: Users can choose among different themes.
+Interfaz Neumórfica: para las tareas, de modo que se vea más atractiva (se puede usar SASS .scss)
 
-### *Features to be added*:
+Bloc de notas (ScratchPad): agregar una opción de bloc de notas que pueda guardarse localmente
 
-* SubTasks: Adding subtasks to the enlisted tasks, could be an option.
-* Neumorphic Interface: For the to-do's so, it looks more appealing, Can use SASS (.scss file)
-* ScratchPad: Adding an option of a Scratch pad and it can be locally saved.
-* Login Features (use APIs) & Database: So the website can be opened on any device, users can log in, and the To-Dos can be viewed anywhere, anytime.
-* Reminder/Alerts: Sending automated mails once logged in, and due date/time set.
+Funciones de inicio de sesión (uso de APIs) y base de datos: para que el sitio web pueda abrirse en cualquier dispositivo, los usuarios puedan iniciar sesión y ver sus tareas en cualquier lugar y en cualquier momento
 
-# *References*
+Recordatorios / Alertas: envío de correos automáticos una vez que el usuario haya iniciado sesión y se haya establecido una fecha y hora límite
 
-* For Fonts: [Google Fonts](https://fonts.googleapis.com/css2?family=Work+Sans:wght@300&display=swap)
-* For Basic Icons (like Trash and Check buttons): [font-awesome](https://fontawesome.com)
-* For Favicon: [icons8](https://icons8.com/icons/)
-* For Color Coordination: [w3schools](https://www.w3schools.com/colors/colors_mixer.asp?colorbottom=000000&colortop=FFFFFF)
-* For JavaScript (Tutorial): [The Net Ninja](https://www.youtube.com/playlist?list=PL4cUxeGkcC9i9Ae2D9Ee1RvylH38dKuET)
-* For help with CSS: [CSS Tricks](https://css-tricks.com/)
-* For more CSS effects: [text-effects](https://speckyboy.com/underline-text-effects-css/)
-* For Type Writing effects: [Type-effects](https://usefulangle.com/post/85/css-typewriter-animation)
-* For Local Storage: [Web Dev Simplified Blog](https://blog.webdevsimplified.com/2020-08/cookies-localStorage-sessionStorage/)
+Referencias
 
-# *Contributions*
+Para fuentes: Google Fonts
 
-- All contributors are most welcome! This is definitely open source!
+Para íconos básicos (como botones de eliminar y marcar): Font Awesome
 
-## *WEBSITE DEMO*
+Para favicon: Icons8
+
+Para combinación de colores: W3Schools
+
+Para JavaScript (tutorial): The Net Ninja
+
+Para ayuda con CSS: CSS Tricks
+
+Para más efectos CSS: Text Effects
+
+Para efectos de escritura tipo máquina: Type Effects
+
+Para almacenamiento local: Web Dev Simplified Blog
+
+## *WEBSITE*
 
 ![Screenshot (771)](https://user-images.githubusercontent.com/61280281/99399713-0844b900-290c-11eb-8d7c-1199319b4a9e.png)
 
